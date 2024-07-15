@@ -21,3 +21,5 @@ data.shape
 data.describe()
 # how many are diabetic or non diabetic
 data['Outcome'].value_counts()
+# visualizing outcomes wrt age
+
